@@ -1,0 +1,325 @@
+2024-12-26 17:06:58.495 [info] Extension host with pid 3549 started
+2024-12-26 17:06:58.495 [info] Skipping acquiring lock for /home/subinoy/.config/Code/User/workspaceStorage/162c7d36877971c77863a4deff38ec0e.
+2024-12-26 17:06:58.514 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-12-26 17:06:58.622 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-26 17:06:58.657 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-26 17:06:58.717 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-26 17:06:58.790 [info] Eager extensions activated
+2024-12-26 17:06:58.806 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-26 17:06:58.808 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-26 17:06:58.858 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-26 17:06:58.972 [warning] [Decorations] CAPPING events from decorations provider vscode.git 330
+2024-12-26 17:06:59.095 [warning] [Decorations] CAPPING events from decorations provider vscode.git 330
+2024-12-26 17:07:02.035 [warning] [Decorations] CAPPING events from decorations provider vscode.git 331
+2024-12-26 17:07:07.094 [warning] [Decorations] CAPPING events from decorations provider vscode.git 331
+2024-12-26 17:07:12.155 [warning] [Decorations] CAPPING events from decorations provider vscode.git 331
+2024-12-26 17:07:17.210 [warning] [Decorations] CAPPING events from decorations provider vscode.git 333
+2024-12-26 17:07:22.268 [warning] [Decorations] CAPPING events from decorations provider vscode.git 333
+2024-12-26 17:07:27.327 [warning] [Decorations] CAPPING events from decorations provider vscode.git 333
+2024-12-26 17:07:32.384 [warning] [Decorations] CAPPING events from decorations provider vscode.git 344
+2024-12-26 17:07:37.448 [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+2024-12-26 17:07:47.738 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-12-26 17:07:48.184 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-12-26 17:07:49.725 [warning] [Decorations] CAPPING events from decorations provider vscode.git 385
+2024-12-26 17:07:50.261 [warning] [Decorations] CAPPING events from decorations provider vscode.git 371
+2024-12-26 17:07:54.817 [warning] [Decorations] CAPPING events from decorations provider vscode.git 371
+2024-12-26 17:08:28.230 [warning] [Decorations] CAPPING events from decorations provider vscode.git 371
+2024-12-26 17:08:34.610 [warning] [Decorations] CAPPING events from decorations provider vscode.git 371
+2024-12-26 17:09:49.034 [warning] [Decorations] CAPPING events from decorations provider vscode.git 371
+2024-12-26 17:11:01.882 [warning] [Decorations] CAPPING events from decorations provider vscode.git 371
+2024-12-26 17:11:07.766 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-12-26 17:11:07.777 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-12-26 17:11:07.821 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-12-26 17:11:07.982 [warning] [Decorations] CAPPING events from decorations provider vscode.git 372
+2024-12-26 17:11:13.081 [warning] [Decorations] CAPPING events from decorations provider vscode.git 373
+2024-12-26 17:11:18.178 [warning] [Decorations] CAPPING events from decorations provider vscode.git 374
+2024-12-26 17:11:30.006 [warning] [Decorations] CAPPING events from decorations provider vscode.git 374
+2024-12-26 17:11:35.111 [warning] [Decorations] CAPPING events from decorations provider vscode.git 374
+2024-12-26 17:11:40.202 [warning] [Decorations] CAPPING events from decorations provider vscode.git 374
+2024-12-26 17:11:45.291 [warning] [Decorations] CAPPING events from decorations provider vscode.git 374
+2024-12-26 17:11:50.393 [warning] [Decorations] CAPPING events from decorations provider vscode.git 374
+2024-12-26 17:11:55.487 [warning] [Decorations] CAPPING events from decorations provider vscode.git 374
+2024-12-26 17:12:00.610 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:12:05.718 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:12:10.809 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:12:14.291 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-12-26 17:12:15.907 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:12:21.004 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:12:26.098 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:12:31.191 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:12:36.282 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:12:41.374 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:12:46.481 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:12:51.576 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:12:56.673 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:13:01.763 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:13:06.856 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:13:11.947 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:13:17.045 [warning] [Decorations] CAPPING events from decorations provider vscode.git 375
+2024-12-26 17:13:21.253 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.config/Code/User/globalStorage/storage.json.vsctmp'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 17:13:22.143 [warning] [Decorations] CAPPING events from decorations provider vscode.git 376
+2024-12-26 17:13:27.237 [warning] [Decorations] CAPPING events from decorations provider vscode.git 377
+2024-12-26 17:13:32.330 [warning] [Decorations] CAPPING events from decorations provider vscode.git 377
+2024-12-26 17:13:37.440 [warning] [Decorations] CAPPING events from decorations provider vscode.git 378
+2024-12-26 17:13:42.531 [warning] [Decorations] CAPPING events from decorations provider vscode.git 378
+2024-12-26 17:13:47.622 [warning] [Decorations] CAPPING events from decorations provider vscode.git 378
+2024-12-26 17:13:52.724 [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+2024-12-26 17:13:53.703 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.config/Code/User/globalStorage/storage.json.vsctmp'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 17:13:57.837 [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+2024-12-26 17:14:02.930 [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+2024-12-26 17:14:08.021 [warning] [Decorations] CAPPING events from decorations provider vscode.git 379
+2024-12-26 17:14:13.128 [warning] [Decorations] CAPPING events from decorations provider vscode.git 380
+2024-12-26 17:14:18.228 [warning] [Decorations] CAPPING events from decorations provider vscode.git 380
+2024-12-26 17:14:23.323 [warning] [Decorations] CAPPING events from decorations provider vscode.git 380
+2024-12-26 17:14:28.424 [warning] [Decorations] CAPPING events from decorations provider vscode.git 380
+2024-12-26 17:14:33.522 [warning] [Decorations] CAPPING events from decorations provider vscode.git 380
+2024-12-26 17:14:38.614 [warning] [Decorations] CAPPING events from decorations provider vscode.git 380
+2024-12-26 17:14:43.720 [warning] [Decorations] CAPPING events from decorations provider vscode.git 380
+2024-12-26 17:14:48.812 [warning] [Decorations] CAPPING events from decorations provider vscode.git 380
+2024-12-26 17:14:53.911 [warning] [Decorations] CAPPING events from decorations provider vscode.git 381
+2024-12-26 17:14:59.013 [warning] [Decorations] CAPPING events from decorations provider vscode.git 381
+2024-12-26 17:15:04.115 [warning] [Decorations] CAPPING events from decorations provider vscode.git 381
+2024-12-26 17:15:09.217 [warning] [Decorations] CAPPING events from decorations provider vscode.git 381
+2024-12-26 17:15:14.332 [warning] [Decorations] CAPPING events from decorations provider vscode.git 381
+2024-12-26 17:15:19.439 [warning] [Decorations] CAPPING events from decorations provider vscode.git 381
+2024-12-26 17:15:24.550 [warning] [Decorations] CAPPING events from decorations provider vscode.git 381
+2024-12-26 17:15:29.642 [warning] [Decorations] CAPPING events from decorations provider vscode.git 381
+2024-12-26 17:15:34.744 [warning] [Decorations] CAPPING events from decorations provider vscode.git 381
+2024-12-26 17:15:39.871 [warning] [Decorations] CAPPING events from decorations provider vscode.git 381
+2024-12-26 17:15:44.966 [warning] [Decorations] CAPPING events from decorations provider vscode.git 381
+2024-12-26 17:15:50.067 [warning] [Decorations] CAPPING events from decorations provider vscode.git 381
+2024-12-26 17:15:55.160 [warning] [Decorations] CAPPING events from decorations provider vscode.git 382
+2024-12-26 17:16:00.255 [warning] [Decorations] CAPPING events from decorations provider vscode.git 383
+2024-12-26 17:16:05.363 [warning] [Decorations] CAPPING events from decorations provider vscode.git 384
+2024-12-26 17:16:20.712 [warning] [Decorations] CAPPING events from decorations provider vscode.git 385
+2024-12-26 17:16:25.816 [warning] [Decorations] CAPPING events from decorations provider vscode.git 385
+2024-12-26 17:16:30.909 [warning] [Decorations] CAPPING events from decorations provider vscode.git 385
+2024-12-26 17:16:36.002 [warning] [Decorations] CAPPING events from decorations provider vscode.git 386
+2024-12-26 17:16:41.113 [warning] [Decorations] CAPPING events from decorations provider vscode.git 386
+2024-12-26 17:16:46.209 [warning] [Decorations] CAPPING events from decorations provider vscode.git 386
+2024-12-26 17:16:51.305 [warning] [Decorations] CAPPING events from decorations provider vscode.git 386
+2024-12-26 17:16:56.400 [warning] [Decorations] CAPPING events from decorations provider vscode.git 386
+2024-12-26 17:17:01.493 [warning] [Decorations] CAPPING events from decorations provider vscode.git 386
+2024-12-26 17:17:06.598 [warning] [Decorations] CAPPING events from decorations provider vscode.git 386
+2024-12-26 17:17:11.690 [warning] [Decorations] CAPPING events from decorations provider vscode.git 386
+2024-12-26 17:17:16.784 [warning] [Decorations] CAPPING events from decorations provider vscode.git 387
+2024-12-26 17:17:29.564 [warning] [Decorations] CAPPING events from decorations provider vscode.git 387
+2024-12-26 17:17:34.661 [warning] [Decorations] CAPPING events from decorations provider vscode.git 387
+2024-12-26 17:17:39.765 [warning] [Decorations] CAPPING events from decorations provider vscode.git 387
+2024-12-26 17:17:44.417 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-12-26 17:17:44.872 [warning] [Decorations] CAPPING events from decorations provider vscode.git 387
+2024-12-26 17:17:49.979 [warning] [Decorations] CAPPING events from decorations provider vscode.git 387
+2024-12-26 17:17:55.071 [warning] [Decorations] CAPPING events from decorations provider vscode.git 387
+2024-12-26 17:18:00.175 [warning] [Decorations] CAPPING events from decorations provider vscode.git 387
+2024-12-26 17:18:00.882 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 17:18:00.882 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.config/Code/User/workspaceStorage/162c7d36877971c77863a4deff38ec0e/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 17:18:08.462 [warning] [Decorations] CAPPING events from decorations provider vscode.git 389
+2024-12-26 17:18:13.575 [warning] [Decorations] CAPPING events from decorations provider vscode.git 389
+2024-12-26 17:18:18.694 [warning] [Decorations] CAPPING events from decorations provider vscode.git 389
+2024-12-26 17:18:23.797 [warning] [Decorations] CAPPING events from decorations provider vscode.git 389
+2024-12-26 17:18:28.894 [warning] [Decorations] CAPPING events from decorations provider vscode.git 389
+2024-12-26 17:18:33.986 [warning] [Decorations] CAPPING events from decorations provider vscode.git 389
+2024-12-26 17:18:39.086 [warning] [Decorations] CAPPING events from decorations provider vscode.git 390
+2024-12-26 17:18:44.185 [warning] [Decorations] CAPPING events from decorations provider vscode.git 391
+2024-12-26 17:18:49.288 [warning] [Decorations] CAPPING events from decorations provider vscode.git 391
+2024-12-26 17:18:54.385 [warning] [Decorations] CAPPING events from decorations provider vscode.git 391
+2024-12-26 17:18:59.478 [warning] [Decorations] CAPPING events from decorations provider vscode.git 391
+2024-12-26 17:19:04.572 [warning] [Decorations] CAPPING events from decorations provider vscode.git 391
+2024-12-26 17:19:09.679 [warning] [Decorations] CAPPING events from decorations provider vscode.git 391
+2024-12-26 17:19:14.783 [warning] [Decorations] CAPPING events from decorations provider vscode.git 392
+2024-12-26 17:19:19.881 [warning] [Decorations] CAPPING events from decorations provider vscode.git 392
+2024-12-26 17:19:24.993 [warning] [Decorations] CAPPING events from decorations provider vscode.git 392
+2024-12-26 17:19:27.326 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 17:19:27.327 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.config/Code/User/workspaceStorage/162c7d36877971c77863a4deff38ec0e/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 17:19:30.105 [warning] [Decorations] CAPPING events from decorations provider vscode.git 392
+2024-12-26 17:19:35.226 [warning] [Decorations] CAPPING events from decorations provider vscode.git 392
+2024-12-26 17:19:40.331 [warning] [Decorations] CAPPING events from decorations provider vscode.git 392
+2024-12-26 17:19:45.439 [warning] [Decorations] CAPPING events from decorations provider vscode.git 392
+2024-12-26 17:19:50.535 [warning] [Decorations] CAPPING events from decorations provider vscode.git 393
+2024-12-26 17:19:55.632 [warning] [Decorations] CAPPING events from decorations provider vscode.git 393
+2024-12-26 17:20:00.724 [warning] [Decorations] CAPPING events from decorations provider vscode.git 393
+2024-12-26 17:20:05.820 [warning] [Decorations] CAPPING events from decorations provider vscode.git 393
+2024-12-26 17:20:10.915 [warning] [Decorations] CAPPING events from decorations provider vscode.git 393
+2024-12-26 17:20:16.010 [warning] [Decorations] CAPPING events from decorations provider vscode.git 394
+2024-12-26 17:20:21.115 [warning] [Decorations] CAPPING events from decorations provider vscode.git 395
+2024-12-26 17:20:26.215 [warning] [Decorations] CAPPING events from decorations provider vscode.git 395
+2024-12-26 17:20:31.318 [warning] [Decorations] CAPPING events from decorations provider vscode.git 395
+2024-12-26 17:20:36.422 [warning] [Decorations] CAPPING events from decorations provider vscode.git 395
+2024-12-26 17:20:41.535 [warning] [Decorations] CAPPING events from decorations provider vscode.git 395
+2024-12-26 17:20:43.674 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 17:20:43.675 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.config/Code/User/workspaceStorage/162c7d36877971c77863a4deff38ec0e/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 17:20:46.649 [warning] [Decorations] CAPPING events from decorations provider vscode.git 396
+2024-12-26 17:21:08.421 [warning] [Decorations] CAPPING events from decorations provider vscode.git 396
+2024-12-26 17:21:11.570 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 17:21:11.571 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.config/Code/User/workspaceStorage/162c7d36877971c77863a4deff38ec0e/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 17:21:13.514 [warning] [Decorations] CAPPING events from decorations provider vscode.git 396
+2024-12-26 17:21:18.626 [warning] [Decorations] CAPPING events from decorations provider vscode.git 396
+2024-12-26 17:21:26.022 [warning] [Decorations] CAPPING events from decorations provider vscode.git 396
+2024-12-26 17:21:34.921 [warning] [Decorations] CAPPING events from decorations provider vscode.git 397
+2024-12-26 17:21:40.017 [warning] [Decorations] CAPPING events from decorations provider vscode.git 398
+2024-12-26 17:21:45.120 [warning] [Decorations] CAPPING events from decorations provider vscode.git 398
+2024-12-26 17:21:50.224 [warning] [Decorations] CAPPING events from decorations provider vscode.git 398
+2024-12-26 17:21:55.343 [warning] [Decorations] CAPPING events from decorations provider vscode.git 398
+2024-12-26 17:22:00.438 [warning] [Decorations] CAPPING events from decorations provider vscode.git 399
+2024-12-26 17:22:05.533 [warning] [Decorations] CAPPING events from decorations provider vscode.git 399
+2024-12-26 17:22:10.643 [warning] [Decorations] CAPPING events from decorations provider vscode.git 399
+2024-12-26 17:22:17.507 [warning] [Decorations] CAPPING events from decorations provider vscode.git 399
+2024-12-26 17:22:22.608 [warning] [Decorations] CAPPING events from decorations provider vscode.git 399
+2024-12-26 17:22:27.709 [warning] [Decorations] CAPPING events from decorations provider vscode.git 399
+2024-12-26 17:22:32.806 [warning] [Decorations] CAPPING events from decorations provider vscode.git 399
+2024-12-26 17:22:37.916 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 17:22:43.008 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 17:22:48.560 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 17:22:53.660 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 17:22:58.752 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 17:23:03.851 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 17:23:08.948 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 17:23:14.050 [warning] [Decorations] CAPPING events from decorations provider vscode.git 402
+2024-12-26 17:23:18.012 [info] Extension host terminating: renderer closed the MessagePort
+2024-12-26 17:23:18.058 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at kh.L [as value] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:975601)
+    at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-26 17:23:18.062 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:328633)
+    at /opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:329592
+    at kh.value (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1088462)
+    at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-26 17:23:18.062 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at kF.updateReviewDiffReposContext (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:2185:3279)
+    at kF.updateRepositoryListeners (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:2185:3049)
+    at /home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:2185:2887
+    at kh.value (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1088462)
+    at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-26 17:23:18.064 [info] Extension host with pid 3549 exiting with code 0

@@ -1,0 +1,42 @@
+2024-12-26 17:06:40.957 [info] [main] Log level: Info
+2024-12-26 17:06:40.957 [info] [main] Validating found git in: "git"
+2024-12-26 17:06:40.957 [info] [main] Using git "2.47.1" from "git"
+2024-12-26 17:06:40.957 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-26 17:06:40.957 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-26 17:06:40.957 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-12-26 17:06:40.957 [info] [Model][openRepository] Opened repository: /home/subinoy/Hyprland-Custom-Configuration
+2024-12-26 17:06:40.958 [info] > git config --get commit.template [2ms]
+2024-12-26 17:06:40.965 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Hypr-Config-3.0 refs/remotes/Hypr-Config-3.0 [2ms]
+2024-12-26 17:06:40.970 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/subinoy/Hyprland-Custom-Configuration/.git/refs/remotes/origin/Hypr-Config-3.0'
+2024-12-26 17:06:40.985 [info] > git rev-parse refs/remotes/origin/Hypr-Config-3.0 [16ms]
+2024-12-26 17:06:41.002 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2024-12-26 17:06:41.009 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-26 17:06:41.014 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-26 17:06:41.018 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-26 17:06:41.022 [info] > git status -z -uall [32ms]
+2024-12-26 17:06:41.035 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Hypr-Config-3.0 refs/remotes/Hypr-Config-3.0 [6ms]
+2024-12-26 17:06:41.039 [info] > git rev-parse --show-toplevel [18ms]
+2024-12-26 17:06:41.044 [info] > git config --local branch.Hypr-Config-3.0.vscode-merge-base [5ms]
+2024-12-26 17:06:41.048 [info] > git config --get commit.template [13ms]
+2024-12-26 17:06:41.048 [info] > git rev-parse --show-toplevel [5ms]
+2024-12-26 17:06:41.055 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/Hypr-Config-3.0 refs/remotes/origin/Hypr-Config-3.0 [8ms]
+2024-12-26 17:06:41.067 [info] > git merge-base refs/heads/Hypr-Config-3.0 refs/remotes/origin/Hypr-Config-3.0 [8ms]
+2024-12-26 17:06:41.071 [info] > git rev-parse --show-toplevel [16ms]
+2024-12-26 17:06:41.071 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Hypr-Config-3.0 refs/remotes/Hypr-Config-3.0 [19ms]
+2024-12-26 17:06:41.078 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/subinoy/Hyprland-Custom-Configuration/.git/refs/remotes/origin/Hypr-Config-3.0'
+2024-12-26 17:06:41.078 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-26 17:06:41.078 [info] > git diff --name-status -z --diff-filter=ADMR 070c32c1f65286dd2a642380b4aedecee65a8d74...refs/remotes/origin/Hypr-Config-3.0 [7ms]
+2024-12-26 17:06:41.083 [info] > git rev-parse refs/remotes/origin/Hypr-Config-3.0 [5ms]
+2024-12-26 17:06:41.090 [info] > git rev-parse --show-toplevel [7ms]
+2024-12-26 17:06:41.094 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-12-26 17:06:41.094 [info] > git rev-parse --show-toplevel [0ms]
+2024-12-26 17:06:41.098 [info] > git rev-parse --show-toplevel [0ms]
+2024-12-26 17:06:41.103 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-26 17:06:41.107 [info] > git rev-parse --show-toplevel [0ms]
+2024-12-26 17:06:41.111 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-26 17:06:41.115 [info] > git rev-parse --show-toplevel [0ms]
+2024-12-26 17:06:41.119 [info] > git status -z -uall [33ms]
+2024-12-26 17:06:41.121 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-26 17:06:41.122 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-26 17:06:41.479 [info] > git check-ignore -v -z --stdin [1ms]
+2024-12-26 17:06:43.623 [info] > git check-ignore -v -z --stdin [1ms]

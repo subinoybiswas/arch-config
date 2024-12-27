@@ -1,0 +1,732 @@
+2024-12-26 18:14:01.268 [info] Extension host with pid 6749 started
+2024-12-26 18:14:01.268 [info] Skipping acquiring lock for /home/subinoy/.config/Code/User/workspaceStorage/fa4f94ee8e4d19926c1494959fb387b8.
+2024-12-26 18:14:01.385 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-12-26 18:14:01.414 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-26 18:14:01.469 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-26 18:14:01.489 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-26 18:14:01.549 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-26 18:14:01.628 [info] Eager extensions activated
+2024-12-26 18:14:01.646 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-26 18:14:01.648 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-26 18:14:01.661 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-12-26 18:14:02.001 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-12-26 18:14:02.940 [warning] [Decorations] CAPPING events from decorations provider vscode.git 421
+2024-12-26 18:14:04.091 [warning] [Decorations] CAPPING events from decorations provider vscode.git 421
+2024-12-26 18:14:04.603 [warning] [Decorations] CAPPING events from decorations provider vscode.git 421
+2024-12-26 18:14:09.073 [warning] [Decorations] CAPPING events from decorations provider vscode.git 422
+2024-12-26 18:14:14.169 [warning] [Decorations] CAPPING events from decorations provider vscode.git 422
+2024-12-26 18:14:19.269 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2024-12-26 18:14:24.357 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2024-12-26 18:14:29.450 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2024-12-26 18:14:34.545 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2024-12-26 18:14:39.637 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2024-12-26 18:14:44.731 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2024-12-26 18:14:54.434 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2024-12-26 18:14:59.527 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2024-12-26 18:15:04.619 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2024-12-26 18:15:08.937 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.oh-my-zsh/log/update.lock'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:15:11.156 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2024-12-26 18:15:16.247 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2024-12-26 18:15:21.348 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2024-12-26 18:15:26.445 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2024-12-26 18:15:31.537 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2024-12-26 18:15:36.630 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2024-12-26 18:15:41.733 [warning] [Decorations] CAPPING events from decorations provider vscode.git 407
+2024-12-26 18:15:46.827 [warning] [Decorations] CAPPING events from decorations provider vscode.git 407
+2024-12-26 18:15:51.917 [warning] [Decorations] CAPPING events from decorations provider vscode.git 407
+2024-12-26 18:15:57.009 [warning] [Decorations] CAPPING events from decorations provider vscode.git 407
+2024-12-26 18:16:02.102 [warning] [Decorations] CAPPING events from decorations provider vscode.git 407
+2024-12-26 18:16:07.193 [warning] [Decorations] CAPPING events from decorations provider vscode.git 407
+2024-12-26 18:16:12.287 [warning] [Decorations] CAPPING events from decorations provider vscode.git 408
+2024-12-26 18:16:17.381 [warning] [Decorations] CAPPING events from decorations provider vscode.git 408
+2024-12-26 18:16:22.478 [warning] [Decorations] CAPPING events from decorations provider vscode.git 408
+2024-12-26 18:16:27.576 [warning] [Decorations] CAPPING events from decorations provider vscode.git 408
+2024-12-26 18:16:32.681 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:16:37.779 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:16:42.880 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:16:47.973 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:16:53.065 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:16:58.177 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:17:03.277 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:17:08.375 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:17:13.471 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:17:18.567 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:17:23.674 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:17:28.765 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:17:33.859 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:17:38.951 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:17:44.044 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:17:49.151 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:17:54.243 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:17:59.337 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:18:06.677 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:18:11.777 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:18:16.871 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:18:21.964 [warning] [Decorations] CAPPING events from decorations provider vscode.git 409
+2024-12-26 18:18:27.069 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2024-12-26 18:18:32.164 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2024-12-26 18:18:37.257 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2024-12-26 18:18:42.367 [warning] [Decorations] CAPPING events from decorations provider vscode.git 411
+2024-12-26 18:18:47.480 [warning] [Decorations] CAPPING events from decorations provider vscode.git 411
+2024-12-26 18:18:52.574 [warning] [Decorations] CAPPING events from decorations provider vscode.git 411
+2024-12-26 18:18:57.667 [warning] [Decorations] CAPPING events from decorations provider vscode.git 411
+2024-12-26 18:19:02.760 [warning] [Decorations] CAPPING events from decorations provider vscode.git 411
+2024-12-26 18:19:07.878 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:19:12.971 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:19:22.004 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:19:27.105 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:19:32.203 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:19:37.306 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:19:45.082 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.cache/mozilla/firefox/8gph875a.default-release/cache2/entries/504448FB2E613AC783E46E5ABB0B48E61FD9D43A'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:19:50.778 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:19:57.483 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:21:40.296 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.local/state/wireplumber/stream-properties.A92FZ2'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:22:31.376 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:22:39.700 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:22:47.863 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:22:54.143 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:22:58.350 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.config/Code/User/workspaceStorage/fa4f94ee8e4d19926c1494959fb387b8/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:23:01.672 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:23:11.702 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:23:16.796 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:23:25.184 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:23:34.966 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:23:42.465 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:23:50.087 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:23:55.523 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:24:01.120 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:24:13.395 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:24:24.842 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:24:29.937 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:24:59.215 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:25:09.663 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:25:14.757 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:25:19.849 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:25:24.944 [warning] [Decorations] CAPPING events from decorations provider vscode.git 412
+2024-12-26 18:25:30.052 [warning] [Decorations] CAPPING events from decorations provider vscode.git 413
+2024-12-26 18:25:35.169 [warning] [Decorations] CAPPING events from decorations provider vscode.git 413
+2024-12-26 18:25:40.267 [warning] [Decorations] CAPPING events from decorations provider vscode.git 413
+2024-12-26 18:25:45.365 [warning] [Decorations] CAPPING events from decorations provider vscode.git 413
+2024-12-26 18:25:50.470 [warning] [Decorations] CAPPING events from decorations provider vscode.git 413
+2024-12-26 18:25:55.598 [warning] [Decorations] CAPPING events from decorations provider vscode.git 414
+2024-12-26 18:26:00.818 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.config/Code/User/globalStorage/storage.json.vsctmp'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:26:01.859 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.config/Code/User/workspaceStorage/fa4f94ee8e4d19926c1494959fb387b8/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:26:03.289 [warning] [Decorations] CAPPING events from decorations provider vscode.git 414
+2024-12-26 18:26:08.392 [warning] [Decorations] CAPPING events from decorations provider vscode.git 414
+2024-12-26 18:26:13.491 [warning] [Decorations] CAPPING events from decorations provider vscode.git 414
+2024-12-26 18:26:28.820 [warning] [Decorations] CAPPING events from decorations provider vscode.git 414
+2024-12-26 18:26:33.916 [warning] [Decorations] CAPPING events from decorations provider vscode.git 414
+2024-12-26 18:26:39.015 [warning] [Decorations] CAPPING events from decorations provider vscode.git 415
+2024-12-26 18:26:44.494 [warning] [Decorations] CAPPING events from decorations provider vscode.git 415
+2024-12-26 18:26:49.617 [warning] [Decorations] CAPPING events from decorations provider vscode.git 416
+2024-12-26 18:26:54.722 [warning] [Decorations] CAPPING events from decorations provider vscode.git 416
+2024-12-26 18:26:59.825 [warning] [Decorations] CAPPING events from decorations provider vscode.git 416
+2024-12-26 18:27:30.469 [warning] [Decorations] CAPPING events from decorations provider vscode.git 416
+2024-12-26 18:27:55.325 [warning] [Decorations] CAPPING events from decorations provider vscode.git 417
+2024-12-26 18:28:00.421 [warning] [Decorations] CAPPING events from decorations provider vscode.git 417
+2024-12-26 18:28:05.525 [warning] [Decorations] CAPPING events from decorations provider vscode.git 417
+2024-12-26 18:28:13.178 [warning] [Decorations] CAPPING events from decorations provider vscode.git 418
+2024-12-26 18:28:25.199 [warning] [Decorations] CAPPING events from decorations provider vscode.git 418
+2024-12-26 18:28:40.882 [warning] [Decorations] CAPPING events from decorations provider vscode.git 418
+2024-12-26 18:28:45.987 [warning] [Decorations] CAPPING events from decorations provider vscode.git 418
+2024-12-26 18:28:51.090 [warning] [Decorations] CAPPING events from decorations provider vscode.git 419
+2024-12-26 18:28:56.233 [warning] [Decorations] CAPPING events from decorations provider vscode.git 419
+2024-12-26 18:29:01.356 [warning] [Decorations] CAPPING events from decorations provider vscode.git 420
+2024-12-26 18:29:06.491 [warning] [Decorations] CAPPING events from decorations provider vscode.git 421
+2024-12-26 18:29:11.644 [warning] [Decorations] CAPPING events from decorations provider vscode.git 422
+2024-12-26 18:29:20.723 [warning] [Decorations] CAPPING events from decorations provider vscode.git 422
+2024-12-26 18:29:25.838 [warning] [Decorations] CAPPING events from decorations provider vscode.git 423
+2024-12-26 18:29:30.965 [warning] [Decorations] CAPPING events from decorations provider vscode.git 423
+2024-12-26 18:29:41.234 [warning] [Decorations] CAPPING events from decorations provider vscode.git 423
+2024-12-26 18:29:48.632 [warning] [Decorations] CAPPING events from decorations provider vscode.git 423
+2024-12-26 18:29:53.732 [warning] [Decorations] CAPPING events from decorations provider vscode.git 423
+2024-12-26 18:29:58.829 [warning] [Decorations] CAPPING events from decorations provider vscode.git 423
+2024-12-26 18:30:09.746 [warning] [Decorations] CAPPING events from decorations provider vscode.git 423
+2024-12-26 18:30:14.901 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:30:20.034 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:30:20.374 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.mozilla/firefox/8gph875a.default-release/storage/default/https+++accounts.google.com/ls/data.sqlite-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:30:20.375 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.mozilla/firefox/8gph875a.default-release/storage/default/https+++accounts.google.com/ls/usage-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:30:25.148 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:30:33.297 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:30:38.393 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:30:43.509 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:30:48.638 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:30:53.734 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:30:58.844 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:31:03.941 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:31:09.144 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:31:14.326 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:31:28.024 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:31:33.119 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:31:38.217 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:31:43.318 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:31:48.417 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:31:54.686 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:31:59.783 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:32:09.397 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:32:43.981 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2024-12-26 18:34:53.196 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.cache/mozilla/firefox/8gph875a.default-release/cache2/doomed/1703398587'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:35:16.165 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.cache/mozilla/firefox/8gph875a.default-release/safebrowsing-updating/google4/goog-badbinurl-proto.vlpset'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:35:16.166 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.cache/mozilla/firefox/8gph875a.default-release/safebrowsing-updating/google4/goog-malware-proto.vlpset'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:35:16.166 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.cache/mozilla/firefox/8gph875a.default-release/safebrowsing-updating/google4/goog-phish-proto.vlpset'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:35:16.167 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.cache/mozilla/firefox/8gph875a.default-release/safebrowsing-updating/google4/goog-unwanted-proto.vlpset'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:36:06.933 [warning] [Decorations] CAPPING events from decorations provider vscode.git 437
+2024-12-26 18:37:41.417 [warning] [Decorations] CAPPING events from decorations provider vscode.git 437
+2024-12-26 18:37:43.543 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.oh-my-zsh/log/update.lock'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:38:47.954 [warning] [Decorations] CAPPING events from decorations provider vscode.git 437
+2024-12-26 18:38:53.064 [warning] [Decorations] CAPPING events from decorations provider vscode.git 437
+2024-12-26 18:38:58.214 [warning] [Decorations] CAPPING events from decorations provider vscode.git 437
+2024-12-26 18:39:03.342 [warning] [Decorations] CAPPING events from decorations provider vscode.git 437
+2024-12-26 18:39:09.323 [warning] [Decorations] CAPPING events from decorations provider vscode.git 446
+2024-12-26 18:39:14.438 [warning] [Decorations] CAPPING events from decorations provider vscode.git 446
+2024-12-26 18:39:19.552 [warning] [Decorations] CAPPING events from decorations provider vscode.git 446
+2024-12-26 18:39:24.666 [warning] [Decorations] CAPPING events from decorations provider vscode.git 446
+2024-12-26 18:39:29.800 [warning] [Decorations] CAPPING events from decorations provider vscode.git 446
+2024-12-26 18:39:34.910 [warning] [Decorations] CAPPING events from decorations provider vscode.git 447
+2024-12-26 18:39:40.068 [warning] [Decorations] CAPPING events from decorations provider vscode.git 448
+2024-12-26 18:39:45.658 [warning] [Decorations] CAPPING events from decorations provider vscode.git 448
+2024-12-26 18:41:11.964 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.mozilla/firefox/8gph875a.default-release/bounce-tracking-protection.sqlite-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:41:11.965 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.mozilla/firefox/8gph875a.default-release/permissions.sqlite-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:41:21.141 [warning] [Decorations] CAPPING events from decorations provider vscode.git 448
+2024-12-26 18:41:34.876 [warning] [Decorations] CAPPING events from decorations provider vscode.git 448
+2024-12-26 18:41:53.874 [warning] [Decorations] CAPPING events from decorations provider vscode.git 448
+2024-12-26 18:42:12.442 [warning] [Decorations] CAPPING events from decorations provider vscode.git 448
+2024-12-26 18:42:32.036 [warning] [Decorations] CAPPING events from decorations provider vscode.git 448
+2024-12-26 18:43:36.124 [warning] [Decorations] CAPPING events from decorations provider vscode.git 448
+2024-12-26 18:43:53.007 [warning] [Decorations] CAPPING events from decorations provider vscode.git 448
+2024-12-26 18:44:13.872 [warning] [Decorations] CAPPING events from decorations provider vscode.git 449
+2024-12-26 18:44:32.441 [warning] [Decorations] CAPPING events from decorations provider vscode.git 449
+2024-12-26 18:44:37.568 [warning] [Decorations] CAPPING events from decorations provider vscode.git 449
+2024-12-26 18:44:48.961 [warning] [Decorations] CAPPING events from decorations provider vscode.git 450
+2024-12-26 18:45:12.528 [warning] [Decorations] CAPPING events from decorations provider vscode.git 450
+2024-12-26 18:45:17.692 [warning] [Decorations] CAPPING events from decorations provider vscode.git 450
+2024-12-26 18:45:22.836 [warning] [Decorations] CAPPING events from decorations provider vscode.git 450
+2024-12-26 18:46:22.893 [warning] [Decorations] CAPPING events from decorations provider vscode.git 450
+2024-12-26 18:46:28.033 [warning] [Decorations] CAPPING events from decorations provider vscode.git 450
+2024-12-26 18:46:33.176 [warning] [Decorations] CAPPING events from decorations provider vscode.git 451
+2024-12-26 18:46:58.153 [warning] [Decorations] CAPPING events from decorations provider vscode.git 452
+2024-12-26 18:47:33.028 [warning] [Decorations] CAPPING events from decorations provider vscode.git 452
+2024-12-26 18:47:38.147 [warning] [Decorations] CAPPING events from decorations provider vscode.git 452
+2024-12-26 18:47:43.275 [warning] [Decorations] CAPPING events from decorations provider vscode.git 452
+2024-12-26 18:47:48.394 [warning] [Decorations] CAPPING events from decorations provider vscode.git 452
+2024-12-26 18:47:53.514 [warning] [Decorations] CAPPING events from decorations provider vscode.git 452
+2024-12-26 18:47:58.635 [warning] [Decorations] CAPPING events from decorations provider vscode.git 452
+2024-12-26 18:48:03.760 [warning] [Decorations] CAPPING events from decorations provider vscode.git 452
+2024-12-26 18:48:08.906 [warning] [Decorations] CAPPING events from decorations provider vscode.git 453
+2024-12-26 18:48:14.025 [warning] [Decorations] CAPPING events from decorations provider vscode.git 454
+2024-12-26 18:48:19.176 [warning] [Decorations] CAPPING events from decorations provider vscode.git 455
+2024-12-26 18:48:24.326 [warning] [Decorations] CAPPING events from decorations provider vscode.git 455
+2024-12-26 18:48:29.441 [warning] [Decorations] CAPPING events from decorations provider vscode.git 455
+2024-12-26 18:48:34.581 [warning] [Decorations] CAPPING events from decorations provider vscode.git 455
+2024-12-26 18:48:39.723 [warning] [Decorations] CAPPING events from decorations provider vscode.git 455
+2024-12-26 18:48:44.865 [warning] [Decorations] CAPPING events from decorations provider vscode.git 455
+2024-12-26 18:48:49.981 [warning] [Decorations] CAPPING events from decorations provider vscode.git 455
+2024-12-26 18:48:55.122 [warning] [Decorations] CAPPING events from decorations provider vscode.git 455
+2024-12-26 18:49:00.260 [warning] [Decorations] CAPPING events from decorations provider vscode.git 455
+2024-12-26 18:49:05.380 [warning] [Decorations] CAPPING events from decorations provider vscode.git 455
+2024-12-26 18:49:12.354 [warning] [Decorations] CAPPING events from decorations provider vscode.git 456
+2024-12-26 18:49:18.581 [warning] [Decorations] CAPPING events from decorations provider vscode.git 455
+2024-12-26 18:49:23.683 [warning] [Decorations] CAPPING events from decorations provider vscode.git 455
+2024-12-26 18:49:28.790 [warning] [Decorations] CAPPING events from decorations provider vscode.git 455
+2024-12-26 18:49:50.896 [warning] [Decorations] CAPPING events from decorations provider vscode.git 457
+2024-12-26 18:49:57.197 [warning] [Decorations] CAPPING events from decorations provider vscode.git 457
+2024-12-26 18:50:02.316 [warning] [Decorations] CAPPING events from decorations provider vscode.git 457
+2024-12-26 18:50:07.434 [warning] [Decorations] CAPPING events from decorations provider vscode.git 457
+2024-12-26 18:50:12.557 [warning] [Decorations] CAPPING events from decorations provider vscode.git 457
+2024-12-26 18:50:20.401 [warning] [Decorations] CAPPING events from decorations provider vscode.git 457
+2024-12-26 18:51:12.313 [warning] [Decorations] CAPPING events from decorations provider vscode.git 457
+2024-12-26 18:51:17.441 [warning] [Decorations] CAPPING events from decorations provider vscode.git 457
+2024-12-26 18:51:22.601 [warning] [Decorations] CAPPING events from decorations provider vscode.git 457
+2024-12-26 18:51:27.713 [warning] [Decorations] CAPPING events from decorations provider vscode.git 459
+2024-12-26 18:51:32.867 [warning] [Decorations] CAPPING events from decorations provider vscode.git 459
+2024-12-26 18:51:49.937 [warning] [Decorations] CAPPING events from decorations provider vscode.git 459
+2024-12-26 18:51:55.061 [warning] [Decorations] CAPPING events from decorations provider vscode.git 459
+2024-12-26 18:52:00.213 [warning] [Decorations] CAPPING events from decorations provider vscode.git 460
+2024-12-26 18:52:05.318 [warning] [Decorations] CAPPING events from decorations provider vscode.git 460
+2024-12-26 18:52:10.435 [warning] [Decorations] CAPPING events from decorations provider vscode.git 460
+2024-12-26 18:52:15.545 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-12-26 18:52:20.648 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-12-26 18:52:55.841 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.mozilla/firefox/8gph875a.default-release/bounce-tracking-protection.sqlite-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:52:55.843 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.mozilla/firefox/8gph875a.default-release/permissions.sqlite-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:53:25.933 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-12-26 18:55:19.623 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-12-26 18:55:25.046 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-12-26 18:55:30.165 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-12-26 18:55:35.283 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-12-26 18:55:40.390 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-12-26 18:55:45.513 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-12-26 18:55:50.625 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-12-26 18:55:55.729 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-12-26 18:56:00.881 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-12-26 18:56:05.997 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-12-26 18:56:11.186 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-12-26 18:56:15.575 [info] Extension host terminating: renderer closed the MessagePort
+2024-12-26 18:56:15.617 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at kh.L [as value] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:975601)
+    at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-26 18:56:15.617 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at kh.L [as value] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:975601)
+    at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-26 18:56:15.617 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at kh.L [as value] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:975601)
+    at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-26 18:56:15.617 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at kh.L [as value] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:975601)
+    at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-26 18:56:15.618 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at kh.L [as value] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:975601)
+    at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-26 18:56:15.618 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at kh.L [as value] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:975601)
+    at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-26 18:56:15.618 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at kF.updateReviewDiffReposContext (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:2185:3279)
+    at kF.updateRepositoryListeners (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:2185:3049)
+    at /home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:2185:2887
+    at kh.value (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1088462)
+    at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-26 18:56:15.618 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at kh.L [as value] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:975601)
+    at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-26 18:56:15.621 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:328633)
+    at /opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:329592
+    at kh.value (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1088462)
+    at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-26 18:56:15.622 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at kh.L [as value] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:975601)
+    at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-26 18:56:15.622 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:328633)
+    at /opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:329592
+    at kh.value (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1088462)
+    at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-26 18:56:15.622 [info] Extension host with pid 6749 exiting with code 0

@@ -1,0 +1,70 @@
+{
+  "layer": "top",
+  "height": 10,
+  "modules-left": ["custom/arch", "cpu", "memory", "temperature", "custom/info-cava"],
+  "modules-center": ["custom/playerctl"],
+  "modules-right": ["backlight","pulseaudio", "battery", "tray", "network","clock"],
+  "custom/arch": {
+    "format": "  ",
+    "on-click": "sh $HOME/.config/rofi/bin/powermenu"
+  },
+  "wlr/workspaces": {
+    "format": "{name}",
+    "on-click": "activate",
+    "all-outputs": true
+  },
+  "clock": {
+    "format": "<span color='#e0282c'> </span>{:%H:%M}",
+    "format-alt": "<span foreground='#e0282c'> </span><span>{:%I:%M %p %a %d}</span>",
+    "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
+  },
+  "backlight": {
+    "device": "amdgpu_b10",
+    "format": "<span color='#e0282c'>{icon}</span> {percent}%",
+    "format-icons": ["", "", "", "", "", "", "", "", ""]
+  },
+  "custom/sound": {
+    "format": "<span color='#e0282c'> </span>{}",
+    "exec": "custom-alsa.sh"
+  },
+  "network": {
+    "interface": "wlo1",
+    "format": "{ifname}"
+  },
+  "output": "eDP-1"
+},
+{
+  "layer": "top",
+  "height": 10,
+  "modules-left": ["custom/arch", "cpu", "memory", "temperature", "custom/info-cava"],
+  "modules-center": ["custom/playerctl"],
+  "modules-right": ["backlight","pulseaudio", "battery", "tray", "network","clock"],
+  "custom/arch": {
+    "format": "  ",
+    "on-click": "sh $HOME/.config/rofi/bin/powermenu"
+  },
+  "wlr/workspaces": {
+    "format": "{name}",
+    "on-click": "activate",
+    "all-outputs": true
+  },
+  "clock": {
+    "format": "<span color='#e0282c'> </span>{:%H:%M}",
+    "format-alt": "<span foreground='#e0282c'> </span><span>{:%I:%M %p %a %d}</span>",
+    "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
+  },
+  "backlight": {
+    "device": "amdgpu_b10",
+    "format": "<span color='#e0282c'>{icon}</span> {percent}%",
+    "format-icons": ["", "", "", "", "", "", "", "", ""]
+  },
+  "custom/sound": {
+    "format": "<span color='#e0282c'> </span>{}",
+    "exec": "custom-alsa.sh"
+  },
+  "network": {
+    "interface": "wlo1",
+    "format": "{ifname}"
+  },
+  "output": "HDMI-A-1"
+}

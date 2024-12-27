@@ -1,0 +1,41 @@
+2024-12-26 17:02:05.226 [info] [main] Log level: Info
+2024-12-26 17:02:05.226 [info] [main] Validating found git in: "git"
+2024-12-26 17:02:05.226 [info] [main] Using git "2.47.1" from "git"
+2024-12-26 17:02:05.226 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-26 17:02:05.226 [info] > git rev-parse --show-toplevel [8ms]
+2024-12-26 17:02:05.226 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-12-26 17:02:05.226 [info] [Model][openRepository] Opened repository: /home/subinoy/Hyprland-Custom-Configuration
+2024-12-26 17:02:05.227 [info] > git config --get commit.template [3ms]
+2024-12-26 17:02:05.264 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Hypr-Config-3.0 refs/remotes/Hypr-Config-3.0 [7ms]
+2024-12-26 17:02:05.265 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-26 17:02:05.269 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/subinoy/Hyprland-Custom-Configuration/.git/refs/remotes/origin/Hypr-Config-3.0'
+2024-12-26 17:02:05.273 [info] > git rev-parse refs/remotes/origin/Hypr-Config-3.0 [4ms]
+2024-12-26 17:02:05.283 [info] > git rev-parse --show-toplevel [10ms]
+2024-12-26 17:02:05.287 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2024-12-26 17:02:05.288 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-26 17:02:05.292 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-26 17:02:05.298 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-26 17:02:05.303 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-26 17:02:05.307 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-26 17:02:05.312 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-26 17:02:05.318 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-26 17:02:05.323 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-26 17:02:05.329 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-26 17:02:05.334 [info] > git status -z -uall [56ms]
+2024-12-26 17:02:05.350 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Hypr-Config-3.0 refs/remotes/Hypr-Config-3.0 [6ms]
+2024-12-26 17:02:05.355 [info] > git rev-parse --show-toplevel [22ms]
+2024-12-26 17:02:05.361 [info] > git config --get commit.template [12ms]
+2024-12-26 17:02:05.362 [info] > git config --local branch.Hypr-Config-3.0.vscode-merge-base [7ms]
+2024-12-26 17:02:05.372 [info] > git rev-parse --show-toplevel [11ms]
+2024-12-26 17:02:05.377 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/Hypr-Config-3.0 refs/remotes/origin/Hypr-Config-3.0 [10ms]
+2024-12-26 17:02:05.389 [info] > git merge-base refs/heads/Hypr-Config-3.0 refs/remotes/origin/Hypr-Config-3.0 [7ms]
+2024-12-26 17:02:05.395 [info] > git rev-parse --show-toplevel [18ms]
+2024-12-26 17:02:05.395 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Hypr-Config-3.0 refs/remotes/Hypr-Config-3.0 [24ms]
+2024-12-26 17:02:05.404 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/subinoy/Hyprland-Custom-Configuration/.git/refs/remotes/origin/Hypr-Config-3.0'
+2024-12-26 17:02:05.405 [info] > git rev-parse --show-toplevel [5ms]
+2024-12-26 17:02:05.407 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-26 17:02:05.407 [info] > git diff --name-status -z --diff-filter=ADMR 070c32c1f65286dd2a642380b4aedecee65a8d74...refs/remotes/origin/Hypr-Config-3.0 [12ms]
+2024-12-26 17:02:05.408 [info] > git rev-parse refs/remotes/origin/Hypr-Config-3.0 [4ms]
+2024-12-26 17:02:05.418 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-12-26 17:02:05.443 [info] > git status -z -uall [31ms]
+2024-12-26 17:02:05.734 [info] > git check-ignore -v -z --stdin [1ms]

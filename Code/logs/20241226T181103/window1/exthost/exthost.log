@@ -1,0 +1,50 @@
+2024-12-26 18:11:04.395 [info] Extension host with pid 5443 started
+2024-12-26 18:11:04.395 [info] Skipping acquiring lock for /home/subinoy/.config/Code/User/workspaceStorage/fa4f94ee8e4d19926c1494959fb387b8.
+2024-12-26 18:11:04.533 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-12-26 18:11:04.564 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-26 18:11:04.618 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-26 18:11:04.638 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-26 18:11:04.699 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-26 18:11:04.778 [info] Eager extensions activated
+2024-12-26 18:11:04.799 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-26 18:11:04.801 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-26 18:11:04.819 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-12-26 18:11:05.164 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-12-26 18:11:07.013 [warning] [Decorations] CAPPING events from decorations provider vscode.git 399
+2024-12-26 18:11:07.421 [warning] [Decorations] CAPPING events from decorations provider vscode.git 399
+2024-12-26 18:11:07.844 [warning] [Decorations] CAPPING events from decorations provider vscode.git 399
+2024-12-26 18:11:12.253 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.config/Code/User/globalStorage/storage.json.vsctmp'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:11:13.262 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 18:11:14.236 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.config/Code/.org.chromium.Chromium.6ETMsC'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2024-12-26 18:11:18.354 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 18:11:23.448 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 18:11:28.540 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 18:11:33.655 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 18:11:38.755 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 18:11:47.355 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 18:11:52.456 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 18:11:57.556 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 18:12:02.657 [warning] [Decorations] CAPPING events from decorations provider vscode.git 400
+2024-12-26 18:12:07.785 [warning] [Decorations] CAPPING events from decorations provider vscode.git 401
+2024-12-26 18:12:12.909 [warning] [Decorations] CAPPING events from decorations provider vscode.git 401
+2024-12-26 18:12:18.181 [warning] [Decorations] CAPPING events from decorations provider vscode.git 401
+2024-12-26 18:12:23.287 [warning] [Decorations] CAPPING events from decorations provider vscode.git 401
+2024-12-26 18:12:28.391 [warning] [Decorations] CAPPING events from decorations provider vscode.git 401
+2024-12-26 18:12:33.490 [warning] [Decorations] CAPPING events from decorations provider vscode.git 401
+2024-12-26 18:12:38.594 [warning] [Decorations] CAPPING events from decorations provider vscode.git 401
+2024-12-26 18:12:43.693 [warning] [Decorations] CAPPING events from decorations provider vscode.git 401
+2024-12-26 18:12:48.793 [warning] [Decorations] CAPPING events from decorations provider vscode.git 401
+2024-12-26 18:12:53.889 [warning] [Decorations] CAPPING events from decorations provider vscode.git 401
+2024-12-26 18:12:58.987 [warning] [Decorations] CAPPING events from decorations provider vscode.git 401
+2024-12-26 18:13:04.106 [warning] [Decorations] CAPPING events from decorations provider vscode.git 402
+2024-12-26 18:13:09.207 [warning] [Decorations] CAPPING events from decorations provider vscode.git 402
+2024-12-26 18:13:14.306 [warning] [Decorations] CAPPING events from decorations provider vscode.git 402
+2024-12-26 18:13:19.424 [warning] [Decorations] CAPPING events from decorations provider vscode.git 402
+2024-12-26 18:13:24.527 [warning] [Decorations] CAPPING events from decorations provider vscode.git 402
+2024-12-26 18:13:29.626 [warning] [Decorations] CAPPING events from decorations provider vscode.git 402

@@ -1,0 +1,86 @@
+2024-12-26 17:07:48.872 [info] Using the Electron fetcher.
+2024-12-26 17:07:48.872 [info] Initializing Git extension service.
+2024-12-26 17:07:48.872 [info] Successfully activated the vscode.git extension.
+2024-12-26 17:07:48.872 [info] Enablement state of the vscode.git extension: true.
+2024-12-26 17:07:48.872 [info] Successfully registered Git commit message provider.
+2024-12-26 17:07:49.738 [warning] GitHub login failed
+2024-12-26 17:07:49.739 [info] copilot token chat_enabled: undefined, sku: 
+2024-12-26 17:07:50.238 [warning] GitHub login failed
+2024-12-26 17:07:50.240 [error] Error: GitHubLoginFailed
+    at B0._authShowWarnings (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:446:3909)
+    at B0.getCopilotToken (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:446:2438)
+    at dF.getCopilotToken (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:334:26267)
+    at IZ.waitForChatEnabled (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:444:13713)
+    at IZ.run (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:444:13432)
+    at w0.askToUpgradeAuthPermissions (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:444:12870): Failed to get copilot token
+2024-12-26 17:07:50.240 [error] You are not signed in to GitHub. Please sign in to use Copilot.
+2024-12-26 17:07:50.240 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2024-12-26 17:07:50.240 [error] Error: GitHubLoginFailed
+    at B0._authShowWarnings (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:446:3909)
+    at B0.getCopilotToken (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:446:2438)
+    at dF.getCopilotToken (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:334:26267)
+    at Y0._getAuthSession (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:488:2825)
+    at Object.A [as task] (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:488:640)
+    at xC._processQueue (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:487:1101)
+2024-12-26 17:07:50.240 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2024-12-26 17:07:50.240 [error] Error: GitHubLoginFailed
+    at B0._authShowWarnings (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:446:3909)
+    at B0.getCopilotToken (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:446:2438)
+    at dF.getCopilotToken (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:334:26267)
+    at Y0._getAuthSession (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:488:2825)
+    at r (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:488:2288)
+    at Y0._registerEmbeddings (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:488:2787)
+    at async Promise.all (index 1)
+    at async Promise.allSettled (index 0)
+    at tB.waitForActivationBlockers (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:334:13668)
+    at /home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:2255:4201
+    at Frr (/home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:2255:4014)
+    at K0.n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:4447)
+    at K0.m (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:4410)
+    at K0.l (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:3866)
+2024-12-26 17:07:50.240 [info] activationBlocker from 'languageModelAccess' took for 107ms
+2024-12-26 17:07:51.304 [warning] [repo:knightfallxz/Hyprland-Custom-Configuration] Error fetching code search. Error: bad request: Authorization header is badly formatted
+. Retrying in 1ms. Query: text
+2024-12-26 17:07:51.697 [warning] [repo:knightfallxz/Hyprland-Custom-Configuration] Error fetching code search. Error: bad request: Authorization header is badly formatted
+. Retrying in 2ms. Query: text
+2024-12-26 17:07:52.093 [warning] [repo:knightfallxz/Hyprland-Custom-Configuration] Error fetching code search. Error: bad request: Authorization header is badly formatted
+. Retrying in 3ms. Query: text
+2024-12-26 17:07:52.194 [warning] [repo:knightfallxz/Hyprland-Custom-Configuration] Max Retry Error thrown while querying 'text'
+2024-12-26 17:11:08.013 [info] Logged in as subinoybiswas
+2024-12-26 17:11:09.197 [info] Got Copilot token for subinoybiswas
+2024-12-26 17:11:09.222 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-26 17:11:09.222 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-12-26 17:11:09.233 [info] Registering default platform agent...
+2024-12-26 17:11:16.683 [info] Fetched model metadata in 7417ms 34822533-fa36-4c73-89b2-882a452ab47c
+2024-12-26 17:11:58.517 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:11:58.518 [info] request done: requestId: [0467bdd7-4f3f-4775-8f75-8d52358326d7] model deployment ID: []
+2024-12-26 17:12:01.952 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:12:01.953 [info] request done: requestId: [9926ae2d-ddb0-447e-82be-b49211b961bb] model deployment ID: []
+2024-12-26 17:12:02.459 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:12:02.460 [info] request done: requestId: [dc36fcb2-4a60-42c8-b336-ca3178c74f97] model deployment ID: []
+2024-12-26 17:12:02.496 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:12:02.496 [info] request done: requestId: [f502d585-d88a-401f-86f8-427658fd25f9] model deployment ID: []
+2024-12-26 17:12:57.218 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:12:57.218 [info] request done: requestId: [0440d35d-fd9c-4785-83a3-a93190f08107] model deployment ID: []
+2024-12-26 17:13:00.641 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:13:00.642 [info] request done: requestId: [04d91a7b-7e4b-444b-b4c6-a472dab6f3a2] model deployment ID: []
+2024-12-26 17:14:26.555 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:14:26.556 [info] request done: requestId: [b2215569-ca36-41cc-9487-bd8e3cfe643c] model deployment ID: []
+2024-12-26 17:14:31.545 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:14:31.546 [info] request done: requestId: [df915839-3af2-4ad3-b811-ced25dc4d36c] model deployment ID: []
+2024-12-26 17:15:12.225 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:15:12.226 [info] request done: requestId: [bff2666a-c369-406b-8d2b-b8663057f9b9] model deployment ID: []
+2024-12-26 17:15:17.315 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:15:17.316 [info] request done: requestId: [6baaad1b-60b5-4414-94e9-695d2a846781] model deployment ID: []
+2024-12-26 17:17:41.980 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:17:41.980 [info] request done: requestId: [2954db57-58da-49e8-b0c2-4efee5b6c4df] model deployment ID: []
+2024-12-26 17:17:49.345 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:17:49.345 [info] request done: requestId: [1c3184f1-c3be-42a9-984b-9f60fcf0fa81] model deployment ID: []
+2024-12-26 17:18:06.503 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:18:06.503 [info] request done: requestId: [be3b751a-4926-4bb0-bc0f-02803ab9f78e] model deployment ID: []
+2024-12-26 17:18:26.343 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:18:26.344 [info] request done: requestId: [86d3bdcd-e07f-4b15-84fc-8303ce73f6ab] model deployment ID: []
+2024-12-26 17:19:17.070 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:19:17.071 [info] request done: requestId: [414d17a1-5bb8-40c1-82fb-74b6dd27d8f9] model deployment ID: []
+2024-12-26 17:19:42.048 [info] message 0 returned. finish reason: [stop]
+2024-12-26 17:19:42.048 [info] request done: requestId: [647c42a0-6620-45f0-9263-a24732fde2ff] model deployment ID: []

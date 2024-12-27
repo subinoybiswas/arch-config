@@ -1,0 +1,12 @@
+2024-12-27 00:26:14.415 [info] Extension host with pid 15721 started
+2024-12-27 00:26:14.490 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-12-27 00:26:14.554 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-27 00:26:14.558 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-27 00:26:14.618 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-27 00:26:14.693 [info] Eager extensions activated
+2024-12-27 00:26:14.700 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-27 00:26:14.701 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-27 00:26:14.716 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-12-27 00:26:15.034 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-12-27 00:29:25.751 [info] Extension host terminating: renderer closed the MessagePort
+2024-12-27 00:29:25.768 [info] Extension host with pid 15721 exiting with code 0

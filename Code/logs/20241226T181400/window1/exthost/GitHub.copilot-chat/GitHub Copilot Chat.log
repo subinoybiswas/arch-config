@@ -1,0 +1,22 @@
+2024-12-26 18:14:02.828 [info] Using the Electron fetcher.
+2024-12-26 18:14:02.828 [info] Initializing Git extension service.
+2024-12-26 18:14:02.828 [info] Successfully activated the vscode.git extension.
+2024-12-26 18:14:02.828 [info] Enablement state of the vscode.git extension: true.
+2024-12-26 18:14:02.828 [info] Successfully registered Git commit message provider.
+2024-12-26 18:14:04.696 [info] Logged in as subinoybiswas
+2024-12-26 18:14:05.649 [info] Got Copilot token for subinoybiswas
+2024-12-26 18:14:06.365 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-26 18:14:06.365 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-12-26 18:14:06.376 [info] Registering default platform agent...
+2024-12-26 18:14:07.425 [info] Fetched model metadata in 1771ms 04a81401-e862-4469-8851-37d35d371b2a
+2024-12-26 18:14:07.427 [info] activationBlocker from 'languageModelAccess' took for 3237ms
+2024-12-26 18:29:08.867 [info] Fetched model metadata in 1214ms 64dbd7ba-968f-4630-ad4e-5d6ab1947425
+2024-12-26 18:39:05.653 [info] Logged in as subinoybiswas
+2024-12-26 18:39:06.664 [info] Got Copilot token for subinoybiswas
+2024-12-26 18:39:06.673 [info] copilot token chat_enabled: true, sku: free_educational
+2024-12-26 18:39:28.763 [info] Fetched model metadata in 1144ms 463b2f05-087e-4e23-99cc-9250f91241c8
+2024-12-26 18:39:29.446 [info] message 0 returned. finish reason: [stop]
+2024-12-26 18:39:29.447 [info] request done: requestId: [fa334e53-7145-437c-993b-db0893ab538e] model deployment ID: []
+2024-12-26 18:39:31.012 [info] message 0 returned. finish reason: [client-trimmed]
+2024-12-26 18:39:31.013 [info] request done: requestId: [9f1e677c-5f41-4127-8428-bd6b26cf39d0] model deployment ID: []
+2024-12-26 18:54:07.900 [info] Fetched model metadata in 1221ms 43806906-05e8-4307-8223-018d3165b690

@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "window.menuBarVisibility": "toggle",
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false
+}

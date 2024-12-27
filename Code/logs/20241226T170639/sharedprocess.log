@@ -1,0 +1,29 @@
+2024-12-26 17:07:34.010 [info] Getting Manifest... github.copilot
+2024-12-26 17:07:34.547 [info] Installing extension: github.copilot {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/subinoy/.vscode/extensions/extensions.json","path":"/home/subinoy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-26 17:07:35.841 [info] Getting Manifest... github.copilot-chat
+2024-12-26 17:07:35.962 [info] Installing extension: github.copilot-chat {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/subinoy/.vscode/extensions/extensions.json","path":"/home/subinoy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-12-26 17:07:47.135 [info] Extension signature verification result for github.copilot: UnknownError. Executed: true. Duration: 24ms.
+2024-12-26 17:07:47.204 [info] Extension signature verification result for github.copilot-chat: UnknownError. Executed: true. Duration: 6ms.
+2024-12-26 17:07:47.465 [info] Extracted extension to file:///home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2: github.copilot-chat
+2024-12-26 17:07:47.473 [info] Renamed to /home/subinoy/.vscode/extensions/github.copilot-chat-0.23.2
+2024-12-26 17:07:47.508 [info] Extracted extension to file:///home/subinoy/.vscode/extensions/github.copilot-1.254.0: github.copilot
+2024-12-26 17:07:47.513 [info] Renamed to /home/subinoy/.vscode/extensions/github.copilot-1.254.0
+2024-12-26 17:07:47.525 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/subinoy/.vscode/extensions/extensions.json
+2024-12-26 17:07:47.526 [info] Extension installed successfully: github.copilot vscode-userdata:/home/subinoy/.vscode/extensions/extensions.json
+2024-12-26 17:07:47.557 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/subinoy/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-26 17:11:10.021 [info] Getting Manifest... github.copilot
+2024-12-26 17:11:11.216 [info] Installing extension: github.copilot {"enable":true,"isMachineScoped":false,"installEverywhere":true,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/subinoy/.vscode/extensions/extensions.json","path":"/home/subinoy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2024-12-26 17:11:11.266 [info] Extension installed successfully: github.copilot vscode-userdata:/home/subinoy/.vscode/extensions/extensions.json
+2024-12-26 17:11:11.335 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/subinoy/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/subinoy/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

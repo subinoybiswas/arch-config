@@ -1,0 +1,8 @@
+2024-12-27 00:37:38.470 [info] update#setState idle
+2024-12-27 00:38:06.449 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-12-27 00:38:08.257 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-12-27 00:38:08.471 [info] update#setState checking for updates
+2024-12-27 00:38:08.576 [info] update#setState idle
+2024-12-27 00:38:34.637 [info] Extension host with pid 20845 exited with code: 0, signal: unknown.
